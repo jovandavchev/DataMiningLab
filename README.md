@@ -1,1 +1,2 @@
-Data mining lab
+Data mining lab projcet
+
